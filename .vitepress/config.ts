@@ -4,6 +4,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'Claude Code 国内安装指南',
   description: '零基础一站式安装配置 Claude Code / Codex — 远程协助 · 包教包会 · 终身售后',
+  base: '/codex-guide/',
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
 
   themeConfig: {
