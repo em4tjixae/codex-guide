@@ -1,0 +1,15 @@
+{
+  "name": "codex-guide",
+  "version": "1.0.0",
+  "description": "Claude Code / Codex 国内安装配置指南",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.0"
+  }
+}
